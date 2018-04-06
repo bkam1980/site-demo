@@ -14,6 +14,7 @@
 	</head>
 	<body>
 		<h1>Bonjour tout le monde !!! c'est vendredi et bientôt le we ;)</h1>
+		<h2>Ici ça bosse pas mal </h2>
 	</body>
 	
 </html>
