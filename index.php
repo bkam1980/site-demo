@@ -22,7 +22,9 @@
 		    parce que ce n'est pas si évident que ça ,,, lorem ipsum<br>
 		    parce que ce n'est pas si évident que ça ,,, lorem ipsum<br>
 		    parce que ce n'est pas si évident que ça ,,, lorem ipsum
-		</p>
+		</p><br>
+		<h3><p>CREER UN CONFLIT</p></h3>
+		
 		
 	</body>
 	
